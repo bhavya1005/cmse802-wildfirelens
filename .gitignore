@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore large dataset files
+data/raw/
+data/processed/cleaned_fires.csv
