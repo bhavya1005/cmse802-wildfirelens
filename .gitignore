@@ -176,3 +176,4 @@ cython_debug/
 # Ignore large dataset files
 data/raw/
 data/processed/cleaned_fires.csv
+
