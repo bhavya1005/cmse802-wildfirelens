@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Final project artifacts and system files
+*.html
+*.pdf
+.DS_Store
+
+# Temporary notebook versions and duplicates
+notebooks/*copy.ipynb
+notebooks/HW3BC.ipynb
